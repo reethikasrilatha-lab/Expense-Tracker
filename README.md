@@ -66,4 +66,4 @@ A simple and interactive Expense Tracker web application built using **HTML, CSS
 
 **Muppu Reethika**
 
-GitHub: https://github.com/YOUR-GITHUB-USERNAME
+GitHub: https://github.com/reethikasrilatha-lab
