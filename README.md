@@ -6,7 +6,7 @@ A simple and interactive Expense Tracker web application built using **HTML, CSS
 
 **View Live Demo**
 
-> Add your GitHub Pages link here.
+> https://reethikasrilatha-lab.github.io/Expense-Tracker/
 
 ---
 
